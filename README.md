@@ -25,47 +25,46 @@ this tool is made by Guccifer Shubham (shubhushubhu99) and by using this tool yo
 * update and upgrade your termux if you get any problem while excuting this program
 * configure the tor by typing tor in new session to start multiBF
 ```
-pkg install git 
-git clone https:www.github.com/shubhushubhu99/multiBF.git
-type "tor" in new session and get back to the multiBF directory 
-ls 
-cd multiBF 
-bash insta.sh
-
-
+pkg install curl tor jq
 ```
+```
+pkg install git
+```
+```
+git clone https:www.github.com/shubhushubhu99/multiBF.git
+```
+```
+type "tor" in new session and get back to the multiBF directory 
+```
+```
+ls 
+```
+```
+cd multiBF 
+```
+```
+bash insta.sh
+```
+
+
 
 ## Help
 
-
+if pkg update command will not work then first upgrade your termux and type y alltimes whenever asked..
 ```
-command to run if program contains helper info
+pkg upgrade
+pkg upgrade
 ```
 
 ## Authors
 
-Contributors names and contact info
+DARK SQUAD (ANONYMOUS)
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* AUTHER: GUCCIFER SHUBHAM
+* WHATSAPP: +91 9485875345
+* FACEBOOK: https://www.facebook.com/shubhushubhu99
+* INSTAGRAM: https://www.instagram.com/shubhushubhu99
+* TWITER: https://twitter.com/shubhushubhu99
+* YOUTUBE: https://www.youtube.com/channel/UCAopWtmrflBhznkOxHhSdIg
 
-## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
